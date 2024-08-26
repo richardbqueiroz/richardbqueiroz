@@ -111,6 +111,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/richardbqueiroz/richardbqueiroz/snake.yml" alt="Snake animation" />
+![Snake animation](https://github.com/richardbqueiroz/richardbqueiroz/blob/main/.github/workflows/cobrinha.yml)
 
 ###
