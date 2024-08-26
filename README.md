@@ -108,9 +108,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-![Snake animation](https://github.com/richardbqueiroz/richardbqueiroz/blob/main/.github/workflows/cobrinha.yml)
-
-###
